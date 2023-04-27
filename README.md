@@ -3,7 +3,7 @@
 | :placard: Descrição |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Bateria Digital**
-| :label: Tecnologias | JavaScript, HTML, CSS (tecnologias utilizadas)
+| :label: Tecnologias |HTML, CSS (tecnologias utilizadas)
 | :rocket: URL         | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
