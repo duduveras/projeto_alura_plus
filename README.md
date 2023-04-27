@@ -2,7 +2,7 @@
 
 | :placard: Descrição |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Bateria Digital**
+| :sparkles: Nome        | **Projeto Alura**
 | :label: Tecnologias |HTML, CSS (tecnologias utilizadas)
 | :rocket: URL         | 
 
